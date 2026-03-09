@@ -4,10 +4,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=marco-dev-pinheiro&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 ## 🚀 Sobre mim
-Minha paixão por tecnologia me conduziu a uma transição de carreira focada em Ciência de Dados e programação. Como autodidata, não me limito a aprender a teoria, mas sim a construir projetos práticos que demonstrem minhas habilidades em Python e análise de dados. Minha experiência em áreas como vendas me ensinou a ser proativo na busca por soluções e a transformar desafios em oportunidades.
-
-Busco uma posição júnior ou estágio para aplicar esse conhecimento em um ambiente de trabalho real, onde eu possa não apenas executar tarefas, mas também contribuir para a construção de soluções inovadoras, sempre com o objetivo de gerar valor e otimizar processos.
-
+atualizando ........
 
 
 
@@ -32,11 +29,7 @@ Python é a minha linguagem de programação principal, servindo como base para 
 
 Comecei a programar em Python através do Curso em Vídeo e, desde o início, fui fascinado por sua simplicidade e poder. Atualmente, aplico meus conhecimentos em três projetos principais, com um já em execução:
 
-1️⃣-Dashboard de Análise de Dados: Um projeto em andamento que utiliza Python para criar dashboards interativos e insights a partir de bases de dados.
-
-2️⃣-Machine Learning: Estudo e desenvolvimento de modelos de inteligência artificial aplicados à análise de dados.
-
-3️⃣-Chatbot com LLM: Criação de uma interface inteligente para interagir com dados, utilizando Modelos de Linguagem de Grande Escala (LLM)
+### atualizando seção de projetos ....
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 JavaScript: O Próximo Passo na Minha Jornada
